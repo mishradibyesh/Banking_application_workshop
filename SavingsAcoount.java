@@ -9,7 +9,7 @@ public class SavingsAcoount {
 		System.out.println("the new balace is now $"+savingBalance);
 	}
 	public static void modifyInterestRate(double annulInterestRate1 ) {
-     annulInterestRate = annulInterestRate1 ;
+		annulInterestRate = annulInterestRate1 ;
 	}
 
 	public void setSavingBalance(double savingBalance) {   // setting saving balance private variable
