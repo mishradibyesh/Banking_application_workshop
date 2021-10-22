@@ -8,7 +8,7 @@ public class SavingsAcoount {
 		savingBalance = savingBalance * annulInterestRate ;                // calculating saving balance by interest provides
 		System.out.println("the new balace is now $"+savingBalance);
 	}
-	public static void modifyInterestRate(double annulInterestRate1 ) {
+	public static void modifyInterestRate(double annulInterestRate1 ) {    //setting annul interest rate
 		annulInterestRate = annulInterestRate1 ;
 	}
 
